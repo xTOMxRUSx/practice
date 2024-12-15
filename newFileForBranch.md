@@ -1,3 +1,3 @@
-this is new file for first branch FAIL
+this is new file for first branch true
 
-[stepik false](stepik.com)
+[stepik true](stepik.com)
